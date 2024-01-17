@@ -4,7 +4,7 @@ namespace week5_Task.Entities
 {
     public class Task
     {
-        // important fields
+        
         [JsonProperty(PropertyName = "id")]
         public string Id { get; set; } 
         [JsonProperty(PropertyName = "uId", NullValueHandling = NullValueHandling.Ignore)]

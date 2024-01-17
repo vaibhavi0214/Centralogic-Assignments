@@ -1,9 +1,9 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 
 namespace week5_Task.DTO
 {
     public class TaskModel
-    {  // class fields
+    {  
         [JsonProperty(PropertyName = "uId", NullValueHandling = NullValueHandling.Ignore)]
         public string UId { get; set; }
 

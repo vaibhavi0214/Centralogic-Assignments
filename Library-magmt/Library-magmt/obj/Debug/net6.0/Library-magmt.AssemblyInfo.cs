@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Library-magmt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8a23dd5bbd1cfe9c052261bc8a2cde8f2cb5b32")]
 [assembly: System.Reflection.AssemblyProductAttribute("Library-magmt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Library-magmt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

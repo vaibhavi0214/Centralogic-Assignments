@@ -1551,11 +1551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VAIBHAVI\\Desktop\\Centralogic\\Library-magmt\\Library-magmt\\Library-magmt.csproj",
+      "projectUniqueName": "D:\\project\\Vaibhavi_Centralogic\\Library-magmt\\Library-magmt\\Library-magmt.csproj",
       "projectName": "Library-magmt",
-      "projectPath": "C:\\Users\\VAIBHAVI\\Desktop\\Centralogic\\Library-magmt\\Library-magmt\\Library-magmt.csproj",
+      "projectPath": "D:\\project\\Vaibhavi_Centralogic\\Library-magmt\\Library-magmt\\Library-magmt.csproj",
       "packagesPath": "C:\\Users\\VAIBHAVI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VAIBHAVI\\Desktop\\Centralogic\\Library-magmt\\Library-magmt\\obj\\",
+      "outputPath": "D:\\project\\Vaibhavi_Centralogic\\Library-magmt\\Library-magmt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VAIBHAVI\\AppData\\Roaming\\NuGet\\NuGet.Config",
